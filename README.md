@@ -26,13 +26,14 @@ Utilizamos gráficos e histogramas para visualizar de forma mais intuitiva as di
 A seguir, alguns resultados das análises
 
 1. Histograma da Análise estatísitca resumida da variável "Altura".
-![image](https://github.com/AurelianoGon/Distribui-o-de-Frequ-ncia--IBGE/assets/106711467/6774bc84-4bff-4a40-b2f1-fd36a8df1579)
+![image](https://github.com/AurelianoGon/Distribui-o-de-Frequ-ncia--IBGE/assets/106711467/ce7cbf23-7426-4680-a75a-79e0e6b1711b)
+
 
 2. Histograma da Análise Estatísitca resumida da variável "Renda".
-![image](https://github.com/AurelianoGon/Distribui-o-de-Frequ-ncia--IBGE/assets/106711467/f492b3b7-86db-4505-8545-5ed94ee2cb3d)
+![image width = "500" height = "600"](https://github.com/AurelianoGon/Distribui-o-de-Frequ-ncia--IBGE/assets/106711467/f492b3b7-86db-4505-8545-5ed94ee2cb3d)
 
 3. Histograma da Análise Estatísitca resumida da variável "Anos de Estudo"
-4. ![image](https://github.com/AurelianoGon/Distribui-o-de-Frequ-ncia--IBGE/assets/106711467/de427fca-2748-4909-8f10-b9b7092e18d3)
+![image](https://github.com/AurelianoGon/Distribui-o-de-Frequ-ncia--IBGE/assets/106711467/70644746-b340-4a01-8447-73d16cc92508)
 
 
 ## Como Utilizar
