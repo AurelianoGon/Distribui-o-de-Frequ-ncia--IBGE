@@ -13,7 +13,7 @@ O conjunto de dados utilizado neste projeto possui 76.840 registros e  sete vari
 6. Estado (UF): Estado em que os indivíduos residem.
 7. Sexo: Sexo dos indivíduos.
    
-As variáveis no conjunto de dados foram ajustadas para otimizar o desempenho da análise. Para uma investigação mais detalhada, consulte o arquivo "Informações do Banco de Dados", onde você encontrará todas as classificações das variáveis.
+**As variáveis no conjunto de dados foram ajustadas para otimizar o desempenho da análise. Para uma investigação mais detalhada, consulte o arquivo "Informações do Banco de Dados", onde você encontrará todas as classificações das variáveis.**
 
 ## Análises Realizadas
 Foram criadas distribuições de frequência para cada variável do conjunto de dados, permitindo uma visão geral da distribuição dos valores. e frequência.Também foi realizado o cruzamento de variáveis para identificar possíveis relações entre diferentes variáveis, como:
