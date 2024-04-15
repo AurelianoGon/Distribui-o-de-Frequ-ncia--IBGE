@@ -5,13 +5,13 @@ Este repositório contém análises de distribuição de frequência realizadas 
 ## Conjunto de Dados
 O conjunto de dados utilizado neste projeto possui 76.840 registros e  sete variáveis, sedo elas:
 
-Cor: Cor da pele dos indivíduos.
-Renda: Renda dos indivíduos.
-Anos de Estudo: Tempo de estudo de cada indivíduo.
-Idade: Idade de cada indivíduo.
-Altura: Altura dos indivíduos.
-Estado (UF): Estado em que os indivíduos residem.
-Sexo: Sexo dos indivíduos.
+1. Cor: Cor da pele dos indivíduos.
+2. Renda: Renda dos indivíduos.
+3. Anos de Estudo: Tempo de estudo de cada indivíduo.
+4. Idade: Idade de cada indivíduo.
+5. Altura: Altura dos indivíduos.
+6. Estado (UF): Estado em que os indivíduos residem.
+7. Sexo: Sexo dos indivíduos.
 
 ## Análises Realizadas
 Foram criadas distribuições de frequência para cada variável do conjunto de dados, permitindo uma visão geral da distribuição dos valores. e frequência.Também foi realizado o cruzamento de variáveis para identificar possíveis relações entre diferentes variáveis, como:
