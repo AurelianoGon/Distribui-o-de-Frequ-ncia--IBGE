@@ -3,7 +3,7 @@
 Este repositório contém análises de distribuição de frequência realizadas em um conjunto de dados do IBGE, utilizando a linguagem de programação R. As análises incluem a criação de distribuições de frequência, cruzamento de variáveis, gráficos e histogramas para melhor compreensão dos dados.
 
 ## Conjunto de Dados
-O conjunto de dados utilizado neste projeto possui 76.840 registros e  sete variáveis, sedo elas:
+O conjunto de dados utilizado neste projeto possui 76.840 registros e  sete variáveis, sendo elas:
 
 1. Cor: Cor da pele dos indivíduos.
 2. Renda: Renda dos indivíduos.
@@ -12,6 +12,7 @@ O conjunto de dados utilizado neste projeto possui 76.840 registros e  sete vari
 5. Altura: Altura dos indivíduos.
 6. Estado (UF): Estado em que os indivíduos residem.
 7. Sexo: Sexo dos indivíduos.
+As variáveis no conjunto de dados foram ajustadas para otimizar o desempenho da análise. Para uma investigação mais detalhada, consulte o arquivo "Informações do Banco de Dados", onde você encontrará todas as classificações das variáveis.
 
 ## Análises Realizadas
 Foram criadas distribuições de frequência para cada variável do conjunto de dados, permitindo uma visão geral da distribuição dos valores. e frequência.Também foi realizado o cruzamento de variáveis para identificar possíveis relações entre diferentes variáveis, como:
