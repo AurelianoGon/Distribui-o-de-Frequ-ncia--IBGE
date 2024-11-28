@@ -22,6 +22,7 @@ Idade versus Renda;
 Renda versus Sexo versus Cor
 
 ## Gráfico e Histogramas
+
 Utilizamos gráficos e histogramas para visualizar de forma mais intuitiva as distribuições e relações identificadas nos dados. Conduziu-se uma análise estatística resumida para extrair os valores mínimo, máximo e média.
 A seguir, alguns resultados das análises
 
